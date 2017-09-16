@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:Mirror" },
+        "facing=south":  { "model": "harrypottermod:Mirror", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:Mirror", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:Mirror", "y": 270, "uvlock": true }
+    }
+}

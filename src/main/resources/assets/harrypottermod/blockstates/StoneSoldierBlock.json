@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:StoneSoldierBlock" },
+        "facing=south":  { "model": "harrypottermod:StoneSoldierBlock", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:StoneSoldierBlock", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:StoneSoldierBlock", "y": 270, "uvlock": true }
+    }
+}

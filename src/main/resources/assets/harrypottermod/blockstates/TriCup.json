@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:TriCup" },
+        "facing=south":  { "model": "harrypottermod:TriCup", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:TriCup", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:TriCup", "y": 270, "uvlock": true }
+    }
+}

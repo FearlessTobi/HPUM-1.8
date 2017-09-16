@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:GoldenEggOpen" },
+        "facing=south":  { "model": "harrypottermod:GoldenEggOpen", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:GoldenEggOpen", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:GoldenEggOpen", "y": 270, "uvlock": true }
+    }
+}

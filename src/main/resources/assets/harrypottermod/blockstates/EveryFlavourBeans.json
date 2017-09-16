@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:EveryFlavourBeans" },
+        "facing=south":  { "model": "harrypottermod:EveryFlavourBeans", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:EveryFlavourBeans", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:EveryFlavourBeans", "y": 270, "uvlock": true }
+    }
+}

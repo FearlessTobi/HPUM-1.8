@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:DarkMark" },
+        "facing=south":  { "model": "harrypottermod:DarkMark", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:DarkMark", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:DarkMark", "y": 270, "uvlock": true }
+    }
+}

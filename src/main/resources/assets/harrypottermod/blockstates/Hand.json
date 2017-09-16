@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:Hand" },
+        "facing=south":  { "model": "harrypottermod:Hand", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:Hand", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:Hand", "y": 270, "uvlock": true }
+    }
+}

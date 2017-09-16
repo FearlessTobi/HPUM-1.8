@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:WandCrafterActive" },
+        "facing=south":  { "model": "harrypottermod:WandCrafterActive", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:WandCrafterActive", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:WandCrafterActive", "y": 270, "uvlock": true }
+    }
+}

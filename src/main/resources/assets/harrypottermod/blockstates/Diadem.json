@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:Diadem" },
+        "facing=south":  { "model": "harrypottermod:Diadem", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:Diadem", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:Diadem", "y": 270, "uvlock": true }
+    }
+}

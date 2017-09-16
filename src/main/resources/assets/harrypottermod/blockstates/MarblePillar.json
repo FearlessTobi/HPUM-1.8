@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "harrypottermod:MarblePillar" },
+        "axis=z": { "model": "harrypottermod:MarblePillarSide" },
+        "axis=x": { "model": "harrypottermod:MarblePillarSide", "y": 90 }
+    }
+}

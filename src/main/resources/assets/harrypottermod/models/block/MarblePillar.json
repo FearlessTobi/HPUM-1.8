@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "harrypottermod:blocks/marble_smooth_pillar_top",
+        "side": "harrypottermod:blocks/marble_smooth_pillar"
+    }
+}

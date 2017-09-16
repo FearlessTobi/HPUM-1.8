@@ -1,0 +1,135 @@
+{
+	"WandFlick": {
+		"category": "master",
+		"sounds": [
+			"WandFlick"
+		]
+	},
+	"WandAttack": {
+		"category": "master",
+		"sounds": [
+			"WandAttack"
+		]
+	},
+	"IceFreeze": {
+		"category": "master",
+		"sounds": [
+			"IceFreeze"
+		]
+	},
+	"Reparo": {
+		"category": "master",
+		"sounds": [
+			"Reparo"
+		]
+	},
+	"Aguamenti": {
+		"category": "master",
+		"sounds": [
+			"Aguamenti"
+		]
+	},
+	"Nature": {
+		"category": "master",
+		"sounds": [
+			"Nature"
+		]
+	},
+	"TimeTurner": {
+		"category": "master",
+		"sounds": [
+			"TimeTurner"
+		]
+	},
+	"Song": {
+		"category": "master",
+		"sounds": [
+			"Song"
+		]
+	},
+	"Deluminator": {
+		"category": "master",
+		"sounds": [
+			"Deluminator"
+		]
+	},
+	"Illuminator": {
+		"category": "master",
+		"sounds": [
+			"Illuminator"
+		]
+	},
+	"EggScream": {
+		"category": "master",
+		"sounds": [
+			"EggScream"
+		]
+	},
+	"Hippogriff2": {
+		"category": "master",
+		"sounds": [
+			"Hippogriff2"
+		]
+	},
+	"Hippogriff1": {
+		"category": "master",
+		"sounds": [
+			"Hippogriff1"
+		]
+	},
+	"hiss2": {
+		"category": "master",
+		"sounds": [
+			"hiss2"
+		]
+	},
+	"Hiss1": {
+		"category": "master",
+		"sounds": [
+			"Hiss1"
+		]
+	},
+	"FluffyBark": {
+		"category": "master",
+		"sounds": [
+			"FluffyBark"
+		]
+	},
+	"FluffyGrowl": {
+		"category": "master",
+		"sounds": [
+			"FluffyGrowl"
+		]
+	},
+	"FluffyHurt": {
+		"category": "master",
+		"sounds": [
+			"FluffyHurt"
+		]
+	},
+	"Phoenix": {
+		"category": "master",
+		"sounds": [
+			"Phoenix"
+		]
+	},
+	"DragonRoar": {
+		"category": "master",
+		"sounds": [
+			"DragonRoar"
+		]
+	},
+	"Bludger": {
+		"category": "master",
+		"sounds": [
+			"Bludger"
+		]
+	},
+	"werewolfhowl": {
+		"category": "master",
+		"sounds": [
+			"werewolfhowl"
+		]
+	}
+}
+

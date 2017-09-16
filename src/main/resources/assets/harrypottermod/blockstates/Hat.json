@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north":  { "model": "harrypottermod:Hat" },
+        "facing=south":  { "model": "harrypottermod:Hat", "y": 180, "uvlock": true },
+        "facing=east": { "model": "harrypottermod:Hat", "y": 90, "uvlock": true },
+        "facing=west": { "model": "harrypottermod:Hat", "y": 270, "uvlock": true }
+    }
+}
